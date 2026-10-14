@@ -1,0 +1,10 @@
+streamlit
+pypdf
+python-docx
+pandas
+numpy
+scikit-learn
+plotly
+sentence-transformers
+groq
+python-dotenv
